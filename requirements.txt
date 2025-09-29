@@ -1,0 +1,6 @@
+streamlit
+streamlit-authenticator
+forex-python
+plotly
+pandas
+sqlite3
